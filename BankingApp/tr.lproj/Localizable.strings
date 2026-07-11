@@ -1,0 +1,236 @@
+"Welcome" = "Hoş Geldiniz!";
+"Register" = "Kayıt Ol";
+"Login" = "Giriş Yap";
+"DenizBank" = "DenizBank";
+"Globe" = "Globe";
+
+"Email" = "E-posta";
+"Password" = "Şifre";
+"SignUp" = "Kayıt Ol";
+"SuccessRegisterTitle" = "Başarılı";
+"SuccessMessage" = "Başarıyla kayıt oldunuz.";
+"SuccessDismiss" = "Tamam";
+
+"ForgotPassword" = "Şifremi Unuttum";
+"SendLink" = "Bağlantı Gönder";
+"LinkSent" = "Bağlantı gönderildi! Lütfen e-posta adresinizi kontrol edin.";
+"EmailNotRegistered" = "Böyle bir e-posta adresi kayıtlı değil.";
+
+"LoginTitle" = "Giriş Yap";
+"EmailPlaceholder" = "E-posta";
+"PasswordPlaceholder" = "Şifre";
+"LoginButton" = "Giriş Yap";
+"ErrorTitle" = "Hata";
+"ErrorMessage" = "E-posta veya şifre yanlış.";
+"ForgotPasswordLink" = "Şifrenizi mi unuttunuz?";
+
+"SuccessTitle" = "Giriş Başarılı!";
+"WelcomeMessage" = "MobilDeniz' e Hoşgeldiniz!";
+"GoToMenu" = "Menüye Git";
+
+"MenuTitle" = "Menü";
+"Accounts" = "Hesaplar";
+"Cards" = "Kartlar";
+"Credits" = "Krediler";
+"Investments" = "Yatırım İşlemleri";
+"ForeignCurrency" = "Döviz ve Kıymetli Madenler";
+"OtherBankingServices" = "Diğer Banka İşlemleri";
+"Campaigns" = "Kampanyalar";
+"QRTransactions" = "QR İşlemleri";
+"Insurances" = "Sigortalarım";
+"BES" = "Bireysel Emeklilik (BES) İşlemleri";
+"PendingApprovals" = "Onay Bekleyen İşlemler";
+"MerchantServices" = "Üye İşyeri İşlemleri";
+"ChequesAndBills" = "Çek/Senet İşlemleri";
+"ProfileSettings" = "Profil ve Ayarlar";
+"MobileInnovations" = "Mobildeniz Yenilikleri";
+"EDevletEntry" = "e-Devlet Girişi";
+
+"LanguageChangedTitle" = "Dil Değiştirildi";
+"LanguageChangedMessage" = "Uygulamanızın dili değişti, uygulamayı tekrar başlatmanız gerekiyor.";
+
+"Account Type" = "Hesap Türü";
+"Account No" = "Hesap No";
+"Balance" = "Bakiye";
+"My Transactions" = "İşlemlerim";
+"Delete Account" = "Hesabı Sil";
+"Account Details" = "Hesap Detayları";
+"No accounts added yet." = "Henüz hesap eklenmedi.";
+"Add New Account" = "Yeni Hesap Ekle";
+"Initial Balance" = "Başlangıç Bakiyesi";
+"Checking TL" = "Vadesiz TL Hesabı";
+"Foreign Currency Account" = "Döviz Hesabı";
+"Accounts" = "Hesaplar";
+"Add Account" = "Hesap Ekle";
+"Term TL Account" = "Vadeli TL Hesabı";
+"Maturity Period: %d Months" = "Vade Süresi: %d Ay";
+"Euro" = "Euro";
+"Pound" = "Sterlin";
+"Dollar" = "Dolar";
+
+"Maturity Period (Months)" = "Vade Süresi (Ay)";
+"Maturity Period" = "Vade Süresi";
+"Currency Type" = "Döviz Türü";
+
+"CreditCardSectionTitle" = "Kredi Kartlarım";
+"DebitCardSectionTitle" = "Banka Kartlarım";
+"AvailableLimit" = "Kullanılabilir Limit: %.2f ₺";
+"AccountBalance" = "Hesap Bakiyesi: %.2f ₺";
+"DebitCard" = "DenizBank Banka Kartı";
+
+"CreditCardDetailTitle" = "Kredi Kartı Detayları";
+"StatementDate" = "Hesap Kesim Tarihi: %@";
+"DueDate" = "Son Ödeme Tarihi: %@";
+"MinimumPayment" = "Asgari Ödeme Tutarı: %@ ₺";
+"NextStatementDate" = "Sonraki Hesap Kesim Tarihi: %@";
+"TotalRemainingDebt" = "Toplam Kalan Borç: %.2f ₺";
+"RemainingStatementBalance" = "Kalan Ekstre Borcu: %@ ₺";
+"CurrentTransactions" = "Dönem İçi İşlemler: %@ ₺";
+"CardTransactions" = "Kart İşlemleri";
+
+"DebitCardDetailTitle" = "Banka Kartı Detayları";
+"CardNumber" = "Kart Numarası: %@";
+
+"Checking TL" = "Vadesiz TL";
+
+"CardTransactionsTitle" = "Kart İşlemleri";
+"StatementInfo" = "Ekstre Bilgisi";
+"DebtInfo" = "Borç Bilgisi";
+"Installment" = "Taksitlendirme";
+"LimitUpdate" = "Limit Güncelleme";
+"SetPassword" = "Şifre Belirleme";
+"TransactionPermissions" = "İşlem İzinleri";
+
+"TotalLimit" = "Toplam Limit: %@ TL";
+"StatementBalance" = "Ekstre Borcu: %@";
+"StatementPeriod" = "Ekstre Dönemi: %@";
+"SendEmail" = "E-posta Gönder";
+"EmailSent" = "E-posta Gönderildi";
+"EmailNotification" = "Ekstreniz e-posta adresinize gönderilmiştir.";
+"StatementInfoTitle" = "Ekstre Bilgisi";
+"August2024" = "Ağustos 2024";
+"Transaction1" = "İşlem 1";
+"Transaction2" = "İşlem 2";
+"Transaction3" = "İşlem 3";
+
+"TransactionsInPeriod" = "Dönemiçi İşlemler";
+"PendingInstallments" = "Bekleyen Taksitler";
+"TotalAmountInPeriod" = "Toplam Tutar (Dönemiçi İşlemler)";
+"TotalPendingApprovals" = "Toplam Onayda Bekleyenler";
+"TotalPendingInstallments" = "Toplam Bekleyen Taksitler";
+"PendingApproval1" = "Örnek onayda bekleyen 1";
+"PendingApproval2" = "Örnek onayda bekleyen 2";
+"PendingInstallment1" = "Örnek bekleyen taksit 1";
+"PendingInstallment2" = "Örnek bekleyen taksit 2";
+"DebtInfoTitle" = "Borç Bilgileri";
+
+"NoInstallmentsAvailable" = "Taksitlendirme Yok";
+"NoInstallmentMessage" = "Taksitlendirilebilir işleminiz bulunmamaktadır.";
+"Installments" = "Taksitler";
+
+"CurrentLimit" = "Mevcut Limit";
+"RequestedLimit" = "Talep Edilen Limit";
+"DeclaredIncome" = "Beyan Edilen Gelir";
+"EnterRequestedLimit" = "Talep edilen limiti girin";
+"EnterDeclaredIncome" = "Beyan edilen geliri girin";
+"RequestReceived" = "Talebiniz alındı";
+"OK" = "Tamam";
+
+"SetPasswordTitle" = "Şifre Belirleme";
+"SetPassword" = "Şifre Belirle";
+"NewPassword" = "Yeni Şifre";
+"ConfirmPassword" = "Yeni Şifre Tekrar";
+"PasswordMustBe4Digits" = "Şifre 4 rakamdan oluşmalıdır.";
+"PasswordRangeNote" = "Şifre 1900 ile 2100 arasında olmamalıdır.";
+"AvoidBirthdate" = "Doğum tarihiniz gibi bir sayı kullanmayın.";
+"AvoidSymmetricNumbers" = "Simetrik rakamlar kullanmayın.";
+"Continue" = "Devam";
+"PasswordMismatchError" = "Lütfen şifrelerinizi kontrol ediniz.";
+"PasswordValidationError" = "Şifre 4 rakamdan oluşmalıdır.";
+"PasswordChangeSuccess" = "Şifreniz başarıyla değiştirildi.";
+
+"CreditCard" = "Kredi Kartı";
+"TransactionPermissions" = "Kullanım İzinleri";
+"InternetTransactions" = "İnternet İşlemleri";
+"PhoneMailOrders" = "Telefon/Posta";
+"ContactlessPayments" = "Temassız İşlem";
+"ForeignTransactions" = "Yurtdışı İşlemleri";
+"TransactionPermissionsTitle" = "Kullanım İzinleri";
+
+"CardsViewTitle" = "Kartlar";
+"TransactionsTitle" = "İşlemler";
+
+"CreditsTitle" = "Krediler";
+"ApplyForCredit" = "Kredi Başvurusu";
+"NoCreditMessage" = "Krediniz bulunmamaktadır.";
+"ApplyForCreditButton" = "Kredi Başvurusu";
+
+"PreApprovedLimit" = "Ön onaylı kredi limitiniz %@'dir. İsterseniz limitinizden daha düşük ya da daha yüksek bir tutar ile devam edebilirsiniz.";
+"CreditAmount" = "Talep ettiğiniz kredi tutarı";
+"EnterCreditAmount" = "Kredi tutarını giriniz";
+"Installments" = "Taksit sayısı";
+"12Months" = "12 ay";
+"24Months" = "24 ay";
+"36Months" = "36 ay";
+"ContinueButton" = "Devam";
+"SuccessCreditTitle" = "Kredi başvurunuz başarıyla alındı";
+"SuccessCreditMessage" = "Kredi talebiniz başarıyla alındı. En kısa zamanda size dönülecektir.";
+"OKButton" = "Tamam";
+"CreditApplicationTitle" = "Kredi Başvurusu";
+
+"PendingApprovalsTitle" = "Onayda Bekleyenler";
+"NoPendingApprovalsMessage" = "Onayda bekleyen bir işleminiz bulunmamaktadır.";
+
+"Months" = "Ay";
+"SelectInstallments" = "Taksit Seçin";
+"Error" = "Hata";
+"PleaseEnterCreditAmount" = "Lütfen kredi tutarını girin.";
+
+"title1" = "Dijital Üyelik Ödemelerinize 500 TL İndirim Fırsatı!";
+"expiryDate1" = "Son Geçerlilik Tarihi: 30.09.2024";
+"description1" = "İzlemesi güzel bir fırsat! Netflix, Spotify, Exxen, Amazon Prime, BluTV, Disney+, Gain, TV+, Fizy ve S Sport Plus üyelik ödemelerinize 100 TL olmak üzere, toplamda 500 TL’ye varan indirim kazanma fırsatı sizlerle.";
+"details1" = "Kampanya, 01.09.2024 - 30.09.2024 tarihleri arasında geçerlidir.\n\nKampanya katılımı için MobilDeniz’den “HEMEN KATIL” butonuna tıklanması gerekmektedir.\n\nKampanyaya BONUS özellikli tüm Bireysel DenizBank Kredi Kartları dahildir.\n\nKampanyadan faydalanmak için kredi kartınızın internet alışverişlerine açık olması gerekmektedir.\n\nKartınızı, MobilDeniz’de yer alan “Kart işlem izinleri” menüsü üzerinden internet alışverişlerine açabilirsiniz.\n\nKampanya dahilinde işlem başına ödenen ücretin %25’i kadar olmak üzere, en fazla 100 TL indirim kazanılabilir.\n\nKampanya, sadece yeni yapılan dijital platform üyelikleri için geçerlidir.\n\nKampanya katılımlı olup, müşteri bazlıdır.\n\nKazanılan indirim, 04.10.2024 tarihi itibarıyla kullanılabilecektir.\n\nAynı gün, aynı iş yerinden yapılan harcamaların sadece ilki kampanyaya dahildir.\n\nYurt dışı işlemler, MoTo (Mail order, Telephone order), online ve taksitli işlemler kampanyaya dahildir.\n\nKampanyaya DenizBank BONUS Business dahil değildir.\n\nSanal Kart ve Ek Kartlar kampanyaya dahildir.\n\nTarım, İşletme Kartlar ve Net Kartlar kampanyaya dahil değildir.\n\nKampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.\n\nDenizBank kampanya koşullarında değişiklik yapma hakkını saklı tutar..";
+ 
+"title2" = "BP'de 230 TL İndirim Fırsatı!";
+"expiryDate2" = "Son Geçerlilik Tarihi: 30.09.2024";
+"description2" = "Rotanız indirimle dolu! BP istasyonlarında farklı gün ve tek seferde 4 defa 800 TL ve üzeri akaryakıt ya da otogaz harcaması yapın, 5. akaryakıt veya otogaz alışverişinizde 230 TL indirim kazanın.";
+"details2" = "Kampanya, 16.08.2024 - 30.09.2024 tarihleri arasında geçerlidir.\n\nKampanya katılımı için MobilDeniz’den “HEMEN KATIL” butonuna tıklanması gerekmektedir.\n\nAynı gün içerisinde yapılan birden fazla 800 TL ve üzeri harcamaların ilki kampanya dahilindedir.\n\nMüşteriler, 05.10.2024 - 05.11.2024 tarihleri arasında Bonus üyesi BP istasyonlarında 5. kez yapacakları akaryakıt ve/veya otogaz alımlarında 230 TL indirim kazanacaklardır. 5. harcama için minimum harcama tutarı bulunmamaktadır.\n\nKampanya kapsamında tek seferde ve farklı günlerde yapılan 4 defa 800 TL ve üzeri işlemlerden 230 TL indirim kazanılacaktır.\n\nSadece Şahıs Şirketi sahibi müşteriler, Ticari Kartları ile MobilDeniz üzerinden kampanyaya katılım sağlayabilmektedir.\n\nKampanyaya BONUS özellikli tüm DenizBank Kredi Kartları ve DenizBank BONUS Business dahildir.\n\nKampanyaya Net Kart dahildir.\n\nEk Kartlar kampanyaya dahildir.\n\nTaksitli işlemler, vadeli taksit, BONUS kullanımları, sanal kart ve mail order işlemleri kampanyaya dahil değildir.\n\nİşlemler mutlaka BONUS POS’undan geçmelidir.\n\nKampanya müşteri bazındadır. Bir müşteri en fazla 230 TL indirim kazanabilir.\n\nKazanılan indirim harcama yapılan kartların ekstresine yansıtılacaktır.\n\nDenizBank kampanya koşullarında değişiklik yapma hakkını saklı tutar.";
+ 
+"title3" = "Deniz'le Seyahat'ten Uçak Biletinde 200 TL İndirim!";
+"expiryDate3" = "Son Geçerlilik Tarihi: 31.12.2024";
+"description3" = "Seyahatte fırsat Deniz’de! Deniz’le Seyahat üzerinden yapacağınız uçak biletlerinde 200 TL indirim kazanabileceğiniz kampanya kodunuz sizi bekliyor.";
+"details3" = "Kampanya 31.12.2024 tarihine kadar geçerlidir.\n\nKampanya kapsamında DNZBNK2024 indirim kodunu kullanan kullanıcılara Deniz’le Seyahat resmi internet sitesinden alacakları gidiş-dönüş tüm uçak biletlerinde 200 TL indirim uygulanır.\n\nKampanya 31.07.2024 tarihine kadar Deniz’le Seyahat resmi internet sitesinden ve DenizKartım mobil uygulamasında yer alan “Deniz’le Seyahat” sekmesinden alınacak uçak biletlerinde geçerlidir.\n\nBu kampanya başka bir kampanya ile birleştirilemez.\n\nİndirim kodu kullanılarak alınan biletlerin iptal edilmesi istendiğinde, havayolunun verdiği iade tutarı indirim tutarından az veya eşit ise müşteriye iade yapılmaz.\n\nİndirim kodu kullanılarak alınan biletlerin iptal edilmesi istendiğinde, havayolunun verdiği iade tutarı indirim tutarından fazla ise, indirim tutarı, havayolunun verdiği iade tutarından düşülerek iade edilecek bedel hesaplanır.\n\nİndirim kodu kullanılarak alınan biletlerde değişiklik yapılması istendiğinde, ikinci bir indirim uygulanmaz; havayolunun değişiklik ücreti ve değişiklik hizmet bedeli müşteriden tahsil edilir.\n\nDenizBank kampanya koşullarında değişiklik yapma hakkını saklı tutar.";
+ 
+"title4" = "Yapı Market Alışverişlerinize 500 TL BONUS Fırsatı!";
+"expiryDate4" = "Son Geçerlilik Tarihi: 30.09.2024";
+"description4" = "Yapı markette fırsatınız hazır! Farklı gün ve tek seferde yapacağınız her 5.000 TL ve üzeri yapı market alışverişinize 250 TL, toplamda 500 TL BONUS kazanma fırsatı sizi bekliyor.";
+"details4" = "Kampanya, 01.09.2024 - 30.09.2024 tarihleri arasında geçerlidir.\n\nKampanya katılımı için MobilDeniz’den “HEMEN KATIL” butonuna tıklanması gerekmektedir.\n\nKampanyaya BONUS özellikli tüm DenizBank Kredi Kartları ve DenizBank BONUS Business Kartlar dahildir.\n\nSadece şahıs şirketi sahibi müşteriler, Ticari Kartları ile MobilDeniz üzerinden kampanyaya katılım sağlayabilmektedir.\n\nKazanılan BONUS’lar, 02.10.2024 - 02.11.2024 tarihleri arasında kullanılabilecektir.\n\nKullanılmayan BONUS’lar, 03.11.2024 tarihi itibarıyla geri alınacaktır.\n\nKampanya müşteri bazındadır. Bir müşteri toplamda en fazla 500 TL BONUS kazanabilir.\n\nKampanyaya düzenli ödeme talimatı, otomatik ödemeler, BONUS kullanımları ve fatura ödemeleri dahil değildir.\n\nKampanyadan yararlanmak için ödeme işleminin BONUS POS’larından gerçekleştirilmesi gerekmektedir.\n\nFarklı ürün kategorilerinde satış yapan sanal mağazalardan yapılacak işlemler kampanyaya dahil değildir.\n\nAynı gün yapılan harcamaların sadece ilki kampanyaya dahildir.\n\nKampanyaya BONUS Sanal Kartlar, internetten yapılan harcamalar, MoTo (Mail order, Telephone order) ve temassız işlemler dahildir.\n\nNet Kart ve Ek Kartlar kampanyaya dahildir.\n\nKampanya sadece yurt içi işlemlerde geçerlidir.\n\nKampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.\n\nDenizBank kampanya koşullarında değişiklik yapma hakkını saklı tutar.";
+
+"participated" = "Katıldınız";
+"participate" = "Katıl";
+"campaignDetails" = "Kampanya Detayları";
+
+"Account" = "Hesap";
+"Card" = "Karttan";
+"SourceSelection" = "Kaynak Seçimi";
+"SelectAccount" = "Hesap Seçin";
+"RecipientInformation" = "Alıcı Bilgileri";
+"IBAN" = "IBAN";
+"RecipientName" = "Alıcı Adı Soyadı";
+"TransactionInformation" = "İşlem Bilgileri";
+"Date" = "Tarih";
+"Amount" = "Tutar";
+"Description" = "Açıklama";
+"SendMoney" = "Para Gönder";
+"PleaseFillAllFields" = "Lütfen boşlukların tamamını doldurunuz.";
+"TransferSuccessMessage" = "Transferiniz gerçekleştiğinde, size bilgi verilecektir.";
+"MoneyTransfer" = "Para Transferi";
+
+"WouldYouLikeToSplitIntoInstallments" = "Taksit ister misiniz?";
+"SelectInstallments" = "Taksit Seçin";
+"Installments" = "Taksit";
+
+"Pending Approvals" = "Onay Bekleyen İşlemler";
+
+"QR Show" = "QR Göster";
+"Show Account QR Code" = "Hesap QR Göster";

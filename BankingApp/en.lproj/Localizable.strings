@@ -1,0 +1,233 @@
+"Welcome" = "Welcome!";
+"Register" = "Register";
+"Login" = "Login";
+"DenizBank" = "DenizBank";
+"Globe" = "Globe";
+
+"Email" = "Email";
+"Password" = "Password";
+"SignUp" = "Sign Up";
+"SuccessRegisterTitle" = "Success";
+"SuccessMessage" = "You have successfully registered.";
+"SuccessDismiss" = "OK";
+
+"ForgotPassword" = "Forgot Password";
+"SendLink" = "Send Link";
+"LinkSent" = "Link sent! Please check your email.";
+"EmailNotRegistered" = "This email address is not registered.";
+
+"LoginTitle" = "Login";
+"EmailPlaceholder" = "Email";
+"PasswordPlaceholder" = "Password";
+"LoginButton" = "Login";
+"ErrorTitle" = "Error";
+"ErrorMessage" = "Email or password is incorrect.";
+"ForgotPasswordLink" = "Forgot your password?";
+
+"SuccessTitle" = "Login Successful!";
+"WelcomeMessage" = "Welcome to MobilDeniz!";
+"GoToMenu" = "Go to Menu";
+
+"MenuTitle" = "Menu";
+"Accounts" = "Accounts";
+"Cards" = "Cards";
+"Credits" = "Credits";
+"Investments" = "Investments";
+"ForeignCurrency" = "Foreign Currency and Precious Metals";
+"OtherBankingServices" = "Other Banking Services";
+"Campaigns" = "Campaigns";
+"QRTransactions" = "QR Transactions";
+"Insurances" = "Insurances";
+"BES" = "Individual Pension (BES) Transactions";
+"PendingApprovals" = "Pending Approvals";
+"MerchantServices" = "Merchant Services";
+"ChequesAndBills" = "Cheques/Bills Transactions";
+"ProfileSettings" = "Profile and Settings";
+"MobileInnovations" = "MobileDeniz Innovations";
+"EDevletEntry" = "e-Government Entry";
+
+"LanguageChangedTitle" = "Language Changed";
+"LanguageChangedMessage" = "Your application's language has been changed, please restart the app.";
+
+"Account Type" = "Account Type";
+"Account No" = "Account No";
+"Balance" = "Balance";
+"My Transactions" = "My Transactions";
+"Delete Account" = "Delete Account";
+"Account Details" = "Account Details";
+"No accounts added yet." = "No accounts added yet.";
+"Add New Account" = "Add New Account";
+"Initial Balance" = "Initial Balance";
+"Checking TL" = "Checking TL Account";
+"Foreign Currency Account" = "Foreign Currency Account";
+"Add Account" = "Add Account";
+"Term TL Account" = "Term TL Account";
+"Maturity Period" = "Maturity Period";
+"Maturity Period: %d Months" = "Maturity Period: %d Months";
+"Euro" = "Euro";
+"Pound" = "Pound";
+"Dollar" = "Dollar";
+
+
+"Maturity Period (Months)" = "Maturity Period (Months)";
+"Currency Type" = "Currency Type";
+
+"CreditCardSectionTitle" = "My Credit Cards";
+"DebitCardSectionTitle" = "My Debit Cards";
+"AvailableLimit" = "Available Limit: %.2f ₺";
+"AccountBalance" = "Account Balance: %.2f ₺";
+"DebitCard" = "DenizBank Debit Card";
+
+"CreditCardDetailTitle" = "Credit Card Details";
+"StatementDate" = "Statement Date: %@";
+"DueDate" = "Due Date: %@";
+"MinimumPayment" = "Minimum Payment: %@ ₺";
+"NextStatementDate" = "Next Statement Date: %@";
+"TotalRemainingDebt" = "Total Remaining Debt: %.2f ₺";
+"RemainingStatementBalance" = "Remaining Statement Balance: %@ ₺";
+"CurrentTransactions" = "Current Transactions: %@ ₺";
+"CardTransactions" = "Card Transactions";
+
+"DebitCardDetailTitle" = "Debit Card Details";
+"CardNumber" = "Card Number: %@";
+
+"Checking TL" = "Checking TL";
+
+"CardTransactionsTitle" = "Card Settings";
+"StatementInfo" = "Statement Info";
+"DebtInfo" = "Debt Info";
+"Installment" = "Installment";
+"SetPassword" = "Set Password";
+"TransactionPermissions" = "Transaction Permissions";
+
+"CreditCard" = "Credit Card";
+"TotalLimit" = "Total Limit: %@ ";
+"StatementPeriod" = "Statement Period: %@";
+"SendEmail" = "Send Email";
+"EmailSent" = "Email Sent";
+"EmailNotification" = "Your statement has been sent to your email.";
+"StatementInfoTitle" = "Statement Info";
+"August2024" = "August 2024";
+"Transaction1" = "Transaction 1";
+"Transaction2" = "Transaction 2";
+"Transaction3" = "Transaction 3";
+
+"StatementBalance" = "Statement Balance: %@";
+"TransactionsInPeriod" = "Transactions In Period";
+"PendingApprovals" = "Pending Approvals";
+"PendingInstallments" = "Pending Installments";
+"TotalAmountInPeriod" = "Total Amount (Transactions In Period)";
+"TotalPendingApprovals" = "Total Pending Approvals";
+"TotalPendingInstallments" = "Total Pending Installments";
+"PendingApproval1" = "Sample pending approval 1";
+"PendingApproval2" = "Sample pending approval 2";
+"PendingInstallment1" = "Sample pending installment 1";
+"PendingInstallment2" = "Sample pending installment 2";
+"DebtInfoTitle" = "Debt Information";
+
+"NoInstallmentsAvailable" = "No Installments Available";
+"NoInstallmentMessage" = "You have no available installment transactions.";
+"Installments" = "Installments";
+
+"RequestedLimit" = "Requested Limit";
+"DeclaredIncome" = "Declared Income";
+"EnterRequestedLimit" = "Enter requested limit";
+"EnterDeclaredIncome" = "Enter declared income";
+"RequestReceived" = "Your request has been received";
+"OK" = "OK";
+"LimitUpdate" = "Limit Update";
+
+"SetPasswordTitle" = "Set Password";
+"SetPassword" = "Set Password";
+"NewPassword" = "New Password";
+"ConfirmPassword" = "Confirm Password";
+"PasswordMustBe4Digits" = "Password must be 4 digits.";
+"PasswordRangeNote" = "Password must not be between 1900 and 2100.";
+"AvoidBirthdate" = "Do not use a number like your birth date.";
+"AvoidSymmetricNumbers" = "Do not use symmetric numbers.";
+"Continue" = "Continue";
+"PasswordMismatchError" = "Please check your passwords.";
+"PasswordValidationError" = "Password must be 4 digits.";
+"PasswordChangeSuccess" = "Your password has been changed successfully.";
+
+"TransactionPermissions" = "Transaction Permissions";
+"InternetTransactions" = "Internet Transactions";
+"PhoneMailOrders" = "Phone/Mail Orders";
+"ContactlessPayments" = "Contactless Payments";
+"ForeignTransactions" = "Foreign Transactions";
+"TransactionPermissionsTitle" = "Transaction Permissions";
+
+"CardsViewTitle" = "Cards";
+"TransactionsTitle" = "Transactions";
+
+"CreditsTitle" = "Credits";
+"CreditApplicationTitle" = "Credit Application";
+"NoCreditMessage" = "You do not have any credits.";
+"ApplyForCreditButton" = "Apply for Credit";
+
+"PreApprovedLimit" = "Your pre-approved credit limit is %@. You can proceed with a lower or higher amount.";
+"CreditAmount" = "Requested credit amount";
+"EnterCreditAmount" = "Enter the credit amount";
+"Installments" = "Installments";
+"SuccessCreditTitle" = "Credit application successful";
+"SuccessCreditMessage" = "Your credit application has been received. We will get back to you shortly.";
+"CreditApplicationTitle" = "Credit Application";
+"OKButton" = "OK";
+"CreditApplicationTitle" = "Credit Application";
+"CurrentLimit" = "Current Limit";
+
+"PendingApprovalsTitle" = "Pending Approvals";
+"NoPendingApprovalsMessage" = "You have no pending approvals.";
+
+"Months" = "Months";
+"ContinueButton" = "Continue";
+"SelectInstallments" = "Select Installments";
+"Error" = "Error";
+"PleaseEnterCreditAmount" = "Please enter the credit amount.";
+
+"title1" = "500 TL Discount Opportunity on Your Digital Membership Payments!";
+"expiryDate1" = "Expiry Date: 30.09.2024";
+"description1" = "An excellent opportunity for you to enjoy! Receive a discount of up to 500 TL on Netflix, Spotify, Exxen, Amazon Prime, BluTV, Disney+, Gain, TV+, Fizy, and S Sport Plus membership payments, with a discount of 100 TL per transaction.";
+"details1" = "The campaign is valid from 01.09.2024 to 30.09.2024.\n\nTo participate in the campaign, click the “JOIN NOW” button in MobilDeniz.\n\nThe campaign is applicable to all individual DenizBank Credit Cards with BONUS features.\n\nTo benefit from the campaign, your credit card must be enabled for internet transactions.\n\nYou can enable internet transactions for your card via the “Card Transaction Permissions” menu in MobilDeniz.\n\nA discount of up to 100 TL can be obtained per transaction, up to a maximum of 500 TL.\n\nThe campaign is valid only for new digital platform memberships.\n\nThe campaign is participation-based and customer-specific.\n\nThe earned discount can be used from 04.10.2024.\n\nOnly the first transaction made at the same merchant on the same day is included in the campaign.\n\nInternational transactions, MoTo (Mail order, Telephone order), online and installment transactions are included in the campaign.\n\nThe campaign does not include DenizBank BONUS Business.\n\nVirtual Cards and Additional Cards are included in the campaign.\n\nAgricultural, Business Cards, and Net Cards are not included in the campaign.\n\nRefunds and cancellations within the campaign will be considered.\n\nDenizBank reserves the right to change the campaign terms.";
+ 
+"title2" = "230 TL Discount Opportunity at BP!";
+"expiryDate2" = "Expiry Date: 30.09.2024";
+"description2" = "Fill your tank with discounts! Spend 800 TL or more on fuel or autogas at BP stations on four separate days, and receive a 230 TL discount on your 5th fuel or autogas purchase.";
+"details2" = "The campaign is valid from 16.08.2024 to 30.09.2024.\n\nTo participate in the campaign, click the “JOIN NOW” button in MobilDeniz.\n\nThe first 800 TL or more transactions made on the same day are included in the campaign.\n\nCustomers will receive a 230 TL discount on their 5th fuel and/or autogas purchases at BONUS member BP stations between 05.10.2024 and 05.11.2024. There is no minimum spending amount for the 5th purchase.\n\nA discount of 230 TL will be earned on every 5.000 TL and above purchase made on different days and in a single transaction.\n\nOnly sole proprietorship customers can participate in the campaign with their Commercial Cards via MobilDeniz.\n\nThe campaign includes all DenizBank Credit Cards with BONUS features and DenizBank BONUS Business.\n\nThe campaign includes Net Card.\n\nAdditional Cards are included in the campaign.\n\nInstallment transactions, term installments, BONUS uses, virtual cards, and mail order transactions are not included in the campaign.\n\nTransactions must be processed through BONUS POS.\n\nThe campaign is customer-specific. A customer can earn a maximum of 230 TL discount.\n\nThe earned discount will be reflected on the statements of the cards used for the purchase.\n\nDenizBank reserves the right to change the campaign terms.";
+ 
+"title3" = "200 TL Discount on Flight Tickets with Deniz Travel!";
+"expiryDate3" = "Expiry Date: 31.12.2024";
+"description3" = "Opportunity to travel with Deniz! Your discount code allows you to get 200 TL off on flight tickets booked through Deniz Travel.";
+"details3" = "The campaign is valid until 31.12.2024.\n\nUsers who use the discount code DNZBNK2024 will receive a 200 TL discount on all round-trip flight tickets purchased from the Deniz Travel official website.\n\nThe campaign is valid for flight tickets purchased from the Deniz Travel official website and DenizKartım mobile app until 31.07.2024.\n\nThis campaign cannot be combined with other promotions.\n\nIf a ticket purchased with the discount code is canceled, and the amount refunded by the airline is equal to or less than the discount amount, no refund will be made to the customer.\n\nIf a ticket purchased with the discount code is canceled and the refund amount from the airline exceeds the discount amount, the discount amount will be deducted from the total refund.\n\nIf changes are requested for tickets purchased with the discount code, no additional discount will be applied; any change fees and service charges will be collected from the customer.\n\nDenizBank reserves the right to change the campaign terms.";
+ 
+"title4" = "500 TL BONUS Opportunity on Home Improvement Purchases!";
+"expiryDate4" = "Expiry Date: 30.09.2024";
+"description4" = "Your opportunity is ready at the home improvement store! Earn a total of 500 TL BONUS by making every 5.000 TL and above purchase on different days and in a single transaction.";
+"details4" = "The campaign is valid from 01.09.2024 to 30.09.2024.\n\nTo participate in the campaign, click the “JOIN NOW” button in MobilDeniz.\n\nThe campaign includes all DenizBank Credit Cards with BONUS features and DenizBank BONUS Business Cards.\n\nOnly sole proprietorship customers can participate in the campaign with their Commercial Cards via MobilDeniz.\n\nThe earned BONUS can be used between 02.10.2024 and 02.11.2024.\n\nUnused BONUS will be reclaimed as of 03.11.2024.\n\nThe campaign is customer-specific. A customer can earn a maximum of 500 TL BONUS.\n\nThe campaign excludes regular payment instructions, automatic payments, BONUS uses, and bill payments.\n\nTo benefit from the campaign, the payment must be made through BONUS POS.\n\nTransactions from virtual stores selling different product categories are not included in the campaign.\n\nOnly the first transaction of the day is included in the campaign.\n\nThe campaign includes BONUS Virtual Cards, online transactions, MoTo (Mail order, Telephone order), and contactless transactions.\n\nNet Cards and Additional Cards are included in the campaign.\n\nThe campaign is valid only for domestic transactions.\n\nRefunds and cancellations within the campaign will be considered.\n\nDenizBank reserves the right to change the campaign terms.";
+
+"participated" = "Joined";
+"participate" = "Join";
+"campaignDetails" = "Campaign Details";
+
+"Account" = "Account";
+"Card" = "Card";
+"SourceSelection" = "Source Selection";
+"SelectAccount" = "Select Account";
+"RecipientInformation" = "Recipient Information";
+"IBAN" = "IBAN";
+"RecipientName" = "Recipient Name";
+"TransactionInformation" = "Transaction Information";
+"Date" = "Date";
+"Amount" = "Amount";
+"Description" = "Description";
+"SendMoney" = "Send Money";
+"PleaseFillAllFields" = "Please fill all fields.";
+"TransferSuccessMessage" = "Your transfer has been processed. You will be notified.";
+"MoneyTransfer" = "Money Transfer";
+
+"WouldYouLikeToSplitIntoInstallments" = "Would you like to split into installments?";
+"SelectInstallments" = "Select installments";
+"Installments" = "installments";
+
+"QR Show" = "QR Show";
+"Show Account QR Code" = "Show Account QR Code";

@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcbkptlist
+
+# Build output and indexes
+DerivedData/
+build/
+Build/
+*.app
+*.ipa
+*.dSYM
+*.xcarchive
+*.xcresult
+*.noindex/
+ModuleCache.noindex/
+
+# Swift Package Manager / Xcode caches
+.build/
+
+# Temporary files
+tmp/
+*.tmp
