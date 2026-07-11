@@ -19,18 +19,6 @@ The project replicates the core experience of a modern digital banking applicati
 
 ---
 
-## Screenshots
-
-<div align="center">
-
-<img src="docs/screenshots/login.png" width="30%">
-<img src="docs/screenshots/home.png" width="30%">
-<img src="docs/screenshots/account.png" width="30%">
-
-</div>
-
----
-
 ## Features
 
 - 🔐 Secure user authentication
@@ -141,9 +129,3 @@ MIT License
 ## Author
 
 **Eren Savas**
-
-AI Engineer • Full-Stack Software Engineer • Mobile Developer
-
-GitHub: https://github.com/erensavass
-
-LinkedIn: https://linkedin.com/in/eren-savas-354374331
