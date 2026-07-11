@@ -120,12 +120,6 @@ Throughout this project I gained practical experience in:
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Author
 
 **Eren Savas**
